@@ -48,7 +48,9 @@ namespace UnityEngine.PostProcessing
                     pixels[0] = new Color(1f, 0f, 0f);
                     pixels[1] = new Color(0f, 1f, 0f);
                     pixels[2] = new Color(0f, 0f, 1f);
+#pragma warning disable UNT0017 // SetPixels invocation is slow
                     m_SpectrumLut.SetPixels(pixels);
+#pragma warning restore UNT0017 // SetPixels invocation is slow
                     m_SpectrumLut.Apply();
                 }
 

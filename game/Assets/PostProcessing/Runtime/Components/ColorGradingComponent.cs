@@ -268,7 +268,9 @@ namespace UnityEngine.PostProcessing
                 m_pixels[i + k_CurvePrecision] = new Color(r, g, b, m);
             }
 
+#pragma warning disable UNT0017 // SetPixels invocation is slow
             m_GradingCurves.SetPixels(m_pixels);
+#pragma warning restore UNT0017 // SetPixels invocation is slow
             m_GradingCurves.Apply(false, false);
 
             return m_GradingCurves;
