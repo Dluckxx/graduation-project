@@ -5,343 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbdd74ab-a751-4c57-960c-3f559ad317ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bin/Library/ExCSS.Unity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.Cecil.Mdb.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.Cecil.Pdb.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.Cecil.Rocks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.Cecil.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.CecilTools.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.CompilationPipeline.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.IL2CPP.BeeSettings.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/Unity.SerializationLogic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEditor.Graphs.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEditor.Graphs.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEditor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEditor.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEditor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/Unity.Cecil.Mdb.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/Unity.Cecil.Pdb.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/Unity.Cecil.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.CoreModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.CoreModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.CoreModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.GraphViewModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.GraphViewModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.GraphViewModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.PackageManagerUIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.PackageManagerUIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.PackageManagerUIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.SceneTemplateModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.SceneTemplateModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.SceneTemplateModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsSamplesModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsSamplesModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIElementsSamplesModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIServiceModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIServiceModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UIServiceModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UnityConnectModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UnityConnectModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.UnityConnectModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEditor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ARModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ARModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ARModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AccessibilityModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AccessibilityModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AccessibilityModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AndroidJNIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AndroidJNIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AnimationModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AnimationModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AnimationModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AssetBundleModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AssetBundleModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AssetBundleModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AudioModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AudioModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.AudioModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClothModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClothModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClothModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterInputModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterInputModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterInputModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterRendererModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ClusterRendererModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CoreModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CoreModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CoreModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CrashReportingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CrashReportingModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.CrashReportingModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DSPGraphModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DSPGraphModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DSPGraphModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DirectorModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DirectorModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.DirectorModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GameCenterModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GameCenterModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GameCenterModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GridModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GridModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.GridModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.HotReloadModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.HotReloadModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.HotReloadModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.IMGUIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.IMGUIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.IMGUIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ImageConversionModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ImageConversionModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ImageConversionModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputLegacyModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputLegacyModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputLegacyModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.InputModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.JSONSerializeModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.JSONSerializeModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.LocalizationModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.LocalizationModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.LocalizationModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ParticleSystemModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ParticleSystemModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PerformanceReportingModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PerformanceReportingModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.Physics2DModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.Physics2DModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.Physics2DModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PhysicsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PhysicsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.PhysicsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ProfilerModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ProfilerModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ProfilerModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ScreenCaptureModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.ScreenCaptureModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SharedInternalsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SharedInternalsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteMaskModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteMaskModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteShapeModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SpriteShapeModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.StreamingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.StreamingModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.StreamingModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubstanceModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubstanceModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubstanceModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubsystemsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubsystemsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.SubsystemsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TLSModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TLSModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TLSModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainPhysicsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TerrainPhysicsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextCoreModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextCoreModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextCoreModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextRenderingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextRenderingModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TextRenderingModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TilemapModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TilemapModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.TilemapModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsNativeModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsNativeModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIElementsNativeModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UIModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UNETModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UNETModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UNETModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UmbraModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UmbraModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UmbraModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityAnalyticsModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityAnalyticsModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityConnectModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityConnectModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityConnectModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityCurlModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityCurlModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityCurlModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityTestProtocolModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityTestProtocolModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityTestProtocolModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAudioModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestAudioModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestTextureModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestTextureModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestWWWModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.UnityWebRequestWWWModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VFXModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VFXModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VFXModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VRModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VRModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VRModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VehiclesModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VehiclesModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VehiclesModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VideoModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VideoModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VideoModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VirtualTexturingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VirtualTexturingModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.VirtualTexturingModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.WindModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.WindModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.WindModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.XRModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.XRModule.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.XRModule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bin/Library/UnityEngine/UnityEngine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.Application/Game.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.Application/MainComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.Application/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.Service/Game.Service.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.Service/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.UI/Game.UI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.UI/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Graduation Project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../game/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Main.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Main.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/A.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/A.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/B.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/B.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/C.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/C.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/D.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/CoolShots/D.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/All_Elements.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/All_Elements.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Animals.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Animals.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Buildings.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Buildings.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Buildings_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Buildings_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Characters.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Characters.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Crops.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Crops.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Props.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Props.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Props_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Props_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Rocks.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Rocks.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Rocks_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Rocks_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Trees.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Trees.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Trees_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Trees_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Vehicles.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Vehicles.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Vehicles_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Elements/Vehicles_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/MainMap_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/MainMap_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/MainMap_2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/MainMap_2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_3.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_3.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_5.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_5.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_6.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_6.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_7.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Maps/Map_7.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Temp.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Temp/Map_4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Farm Life/Scenes/Temp/Map_4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.Presentation/Components/MovementComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.Presentation/Game.Presentation.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.Presentation/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.IO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.IO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.IO.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.IO.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.UI.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Code/Library/Game.UI.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Assets/Scenes/master.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Assets/Scenes/master.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../game/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../game/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../game/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.game/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.game/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.game/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.Application/Main.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Main.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Game.IO/Game.IO.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/MainComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.IO/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.Application/MainComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.Application/MainComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.sln" beforeDir="false" afterPath="$PROJECT_DIR$/main.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,8 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B9F73337-F554-4C7B-9521-49A7C0E5735F/99/be21f412/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Game.Application/MainComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B9F73337-F554-4C7B-9521-49A7C0E5735F/8b/a0fc9ab6/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -363,20 +52,27 @@
       <option value="$PROJECT_DIR$/Game.IO/Game.IO.csproj" />
       <option value="$PROJECT_DIR$/Game.Service/Game.Service.csproj" />
       <option value="$PROJECT_DIR$/Game.UI/Game.UI.csproj" />
+      <option value="$PROJECT_DIR$/Game.Presentation/MonoBehaviour1.cs" />
+      <option value="$PROJECT_DIR$/Game.Presentation/Game.Presentation.csproj" />
+      <option value="$PROJECT_DIR$/Game.Presentation/Components/CameraMovementComponent.cs" />
       <option value="$PROJECT_DIR$/Game.Application/MainComponent.cs" />
+      <option value="$PROJECT_DIR$/Game.Presentation/Components/MovementComponent.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1r6Qwqsege7Y6aLKi0bPy1pVBxQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="RiderNUnitUnitTestingPageId" />
     <property name="settings.editor.splitter.proportion" value="0.26782078" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -402,7 +98,8 @@
       <updated>1618294303269</updated>
       <workItem from="1618294307784" duration="905000" />
       <workItem from="1618299143174" duration="8323000" />
-      <workItem from="1618309035654" duration="290000" />
+      <workItem from="1618309035654" duration="508000" />
+      <workItem from="1618554699152" duration="9650000" />
     </task>
     <servers />
   </component>
@@ -424,6 +121,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

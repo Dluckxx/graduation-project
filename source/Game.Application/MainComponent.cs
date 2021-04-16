@@ -20,7 +20,7 @@ namespace Game.Application{
         {
             mMain.Setup();
 
-            Debug.Log("[Application][MainComponent] - Starting game ...");
+            Debug.Log("[Application] [MainComponent] - Starting game ...");
 
             Instantiate(mMainMap);
         }
