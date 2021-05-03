@@ -2,8 +2,8 @@
 {
     public class TestService : ServiceBase
     {
-        public override string Name {
-            get { return "TestService"; }
-        }
+        public override string Name { get { return "TestService"; } }
+
+
     }
 }

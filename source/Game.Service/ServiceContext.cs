@@ -1,24 +1,51 @@
-﻿using System.Collections.Generic;
+﻿using Game.Presentation.Area;
+using System.Collections.Generic;
 
 namespace Game.Service
 {
-    public class ServiceContext
+    public class ServiceContext : ServiceBase
     {
-        Dictionary<string, ServiceBase> mServices = new Dictionary<string, ServiceBase>();
+        public override string Name { get { return "ServiceContext"; } }
 
-        public void AddService(ServiceBase service)
+        // Store all services
+        List<ServiceBase> mServices = new List<ServiceBase>();
+
+        // All single service property
+        private AreaService areaService { get; }
+
+        public ServiceContext()
         {
-            mServices.Add(service.Name, service);
+            // Init services
+            areaService = new AreaService();
         }
 
-        public bool TryGetService(string ServiceName, out ServiceBase service)
-        {
-            return mServices.TryGetValue(ServiceName, out service);
-        }
-
-        public void Tick()
+        public override void Setup()
         {
             
+            // All services setup
+            foreach(ServiceBase service in mServices){
+                service.Setup();
+            }
+        }
+
+        public override void Teardown()
+        {
+
+            // All services tear down
+            foreach (ServiceBase service in mServices)
+            {
+                service.Teardown();
+            }
+        }
+
+        public override void Tick()
+        {
+
+            // All services tick
+            foreach (ServiceBase service in mServices)
+            {
+                service.Tick();
+            }
         }
     }
 }

@@ -45,6 +45,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Game.Presentation\Game.Presentation.csproj">
+      <Project>{8cb27bb6-1060-4692-8a11-971c74078501}</Project>
+      <Name>Game.Presentation</Name>
+      <Private>False</Private>
+    </ProjectReference>
     <ProjectReference Include="..\Game.Service\Game.Service.csproj">
       <Project>{064DA65A-6B8D-40F6-B402-C2C22F531C27}</Project>
       <Name>Game.Service</Name>

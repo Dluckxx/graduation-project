@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-public class RemoveMissingScriptsRecursively : EditorWindow
+public class DeleteMissingScripts : EditorWindow
 {
     [MenuItem("Custom/Remove Missing Scripts")]
     private static void RemoveInSelected()

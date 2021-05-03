@@ -2,8 +2,12 @@
 {
     public abstract class ServiceBase
     {
-        public abstract string Name {
-            get;
-        }
+        public virtual string Name { get { return "ServiceBase"; } }
+
+        public virtual void Setup() { }
+
+        public virtual void Teardown() { }
+
+        public virtual void Tick() { }
     }
 }

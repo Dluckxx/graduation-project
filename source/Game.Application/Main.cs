@@ -2,28 +2,36 @@ using Game.Service;
 using UnityEngine;
 
 namespace Game.Application{
-    public class Main : ISetup
+    public static class Main
     {
-        ServiceContext mServiceContext = new ServiceContext();
+        static ServiceContext mServiceContext = new ServiceContext();
 
-        public Main()
+        // Map prefab
+        public static GameObject MainMap { get; set; }
+
+        public static void Setup()
         {
-            
+            mServiceContext.Setup();
+
+            // Load map
+            if (MainMap != null)
+            {
+                Object.Instantiate(MainMap);
+            }
+            else
+            {
+                Debug.LogError("[Application][Main]-No map founded!");
+            }
         }
 
-        public void Setup()
+        public static void TearDown()
         {
-            mServiceContext.AddService(new TestService());
+            mServiceContext.Teardown();
         }
 
-        public void TearDown()
+        public static void Tick()
         {
-            
-        }
-
-        public void Tick()
-        {
-            
+            mServiceContext.Tick();
         }
     }
 }
