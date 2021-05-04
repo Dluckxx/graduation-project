@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4842191917509361062}
   - component: {fileID: 4842191917509361061}
-  - component: {fileID: 5966431514999969029}
+  - component: {fileID: 8577308075335824599}
   m_Layer: 0
   m_Name: AreaPoint
   m_TagString: Untagged
@@ -48,9 +48,9 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 100, z: 1}
+  m_Size: {x: 1, y: 20, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5966431514999969029
+--- !u!114 &8577308075335824599
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -59,6 +59,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4842191917509361058}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1837296867, guid: adb7e9f9e50d54128862fceead309936, type: 3}
+  m_Script: {fileID: -1837296867, guid: aac52f2bac4178949ae80c5889c474fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Name: Area
