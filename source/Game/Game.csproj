@@ -43,6 +43,9 @@
       <HintPath>..\..\bin\Library\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\bin\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Application\Main.cs" />
@@ -51,7 +54,7 @@
     <Compile Include="Presentation\Area\AreaService.cs" />
     <Compile Include="Presentation\Components\AreaPointComponent.cs" />
     <Compile Include="Presentation\Components\MovementComponent.cs" />
-    <Compile Include="Presentation\Components\TestComponent.cs" />
+    <Compile Include="Presentation\Components\HUDAreaComponent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\ServiceBase.cs" />
     <Compile Include="Service\ServiceContext.cs" />
