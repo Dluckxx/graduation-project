@@ -5,7 +5,13 @@ namespace Game.Presentation.Area
 {
     public class AreaService : ServiceBase
     {
-        private List<AreaPoint> AreaList = new List<AreaPoint>();
+        private List<AreaPoint> mAreaList = new List<AreaPoint>();
+
+        public int Size {
+            get {
+                return mAreaList.Count;
+            }
+        }
 
         public AreaService()
         {
@@ -14,7 +20,7 @@ namespace Game.Presentation.Area
         // Note : return null when player is not in any area
         public AreaPoint GetPlayerCurrentArea()
         {
-            foreach (AreaPoint p in AreaList)
+            foreach (AreaPoint p in mAreaList)
             {
                 if (p.bIsPlayerInside == true)
                 {
@@ -24,10 +30,15 @@ namespace Game.Presentation.Area
             return null;
         }
 
+        public List<AreaPoint> GetAreaPoints()
+        {
+            return mAreaList;
+        }
+
         public void AddAreaPoint(AreaPoint area)
         {
             bool flag = false;
-            foreach (AreaPoint p in AreaList)
+            foreach (AreaPoint p in mAreaList)
             {
                 if (p.AreaName == area.AreaName)
                 {
@@ -37,17 +48,17 @@ namespace Game.Presentation.Area
             }
             if (!flag)
             {
-                AreaList.Add(area);
+                mAreaList.Add(area);
             }
         }
 
         public void RemoveAreaPoint(AreaPoint area)
         {
-            foreach(AreaPoint p in AreaList)
+            foreach(AreaPoint p in mAreaList)
             {
                 if (p.AreaName == area.AreaName)
                 {
-                    AreaList.Remove(p);
+                    mAreaList.Remove(p);
                     break;
                 }
             }
