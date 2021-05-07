@@ -391,7 +391,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6703570746450472044}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 6562202959863653006}
+        m_TargetAssemblyTypeName: Game.UI.Components.PauseMenuComponent, Game
+        m_MethodName: OnClickBack
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &6703570746661184943
 GameObject:
   m_ObjectHideFlags: 0
@@ -686,7 +698,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6703570747249206708}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 6562202959863653006}
+        m_TargetAssemblyTypeName: Game.UI.Components.PauseMenuComponent, Game
+        m_MethodName: OnClickExitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &6703570747301845405
 GameObject:
   m_ObjectHideFlags: 0

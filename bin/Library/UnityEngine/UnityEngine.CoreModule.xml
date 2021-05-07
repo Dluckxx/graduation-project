@@ -2482,7 +2482,7 @@ Here is an example of handling the callback:</para>
     </member>
     <member name="T:UnityEngine.BoundsInt.PositionEnumerator">
       <summary>
-        <para>A struct that iterates through all positions in BoundsInt.</para>
+        <para>An iterator that allows you to iterate over all positions within the BoundsInt.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.BoundsInt.PositionEnumerator.Current">
@@ -9072,7 +9072,7 @@ GPU frame captures can be used to both analyze performance and debug graphics re
     </member>
     <member name="T:UnityEngine.Experimental.Rendering.RayTracingAccelerationStructure.RayTracingModeMask">
       <summary>
-        <para>An enum that controls which RayTracingAccelerationStructure.RayTracingModes a Renderer must have in order to be added to the RayTracingAccelerationStructure.</para>
+        <para>An enum controlling which RayTracingAccelerationStructure.RayTracingModes a Renderer must have in order to be added to the RayTracingAccelerationStructure.</para>
       </summary>
     </member>
     <member name="F:UnityEngine.Experimental.Rendering.RayTracingAccelerationStructure.RayTracingModeMask.DynamicGeometry">
@@ -16474,11 +16474,6 @@ This is similar to Graphics.DrawMeshInstancedIndirect, except that when the inst
     <member name="F:UnityEngine.LightingSettings.Lightmapper.ProgressiveGPU">
       <summary>
         <para>Backend for baking lighting using the GPU. Uses a progressive path tracing algorithm.</para>
-      </summary>
-    </member>
-    <member name="T:UnityEngine.LightingSettings.Sampling">
-      <summary>
-        <para>Available sampling strategies for baking lightmaps with the Progressive Lightmapper.</para>
       </summary>
     </member>
     <member name="T:UnityEngine.LightmapBakeType">
@@ -26403,14 +26398,7 @@ frame. Minimum value is 1 and maximum is 33.</para>
     </member>
     <member name="T:UnityEngine.Random.State">
       <summary>
-        <para>Serializable structure used to hold the full internal state of the random number generator. See Also: Random.state.
-
-This is an opaque data structure intended for serialization (save and restore) purposes only. Its fields are all private and
-have no useful meaning on their own outside of the algorithm. A seed set with InitState, for example, cannot be
-retrieved after even a single iteration of the generator.
-
-See Random for details on the algorithm.
-                </para>
+        <para>Serializable structure used to hold the full internal state of the random number generator. See Also: Random.state.</para>
       </summary>
     </member>
     <member name="T:UnityEngine.RangeAttribute">

@@ -3062,6 +3062,11 @@
       </summary>
       <param name="uiFile">An optional UXML file path.</param>
     </member>
+    <member name="T:UnityEditor.Experimental.GraphView.ResizableElement.UxmlFactory">
+      <summary>
+        <para>Instantiates a ResizableElement with the data read from a UXML file.</para>
+      </summary>
+    </member>
     <member name="M:UnityEditor.Experimental.GraphView.ResizableElement.UxmlFactory.#ctor">
       <summary>
         <para>Constructor.</para>
@@ -3719,6 +3724,11 @@
         <para>Sets the position of the [StickyNote].</para>
       </summary>
       <param name="rect"></param>
+    </member>
+    <member name="T:UnityEditor.Experimental.GraphView.StickyNote.UxmlFactory">
+      <summary>
+        <para>Instantiates a StickyNote with the data read from a UXML file.</para>
+      </summary>
     </member>
     <member name="M:UnityEditor.Experimental.GraphView.StickyNote.UxmlFactory.#ctor">
       <summary>

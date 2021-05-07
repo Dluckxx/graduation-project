@@ -1550,6 +1550,11 @@ Gets the rotation of a specific node.</para>
       </summary>
       <param name="blitMode">XRMirrorViewBlitMode to set.</param>
     </member>
+    <member name="T:UnityEngine.XR.XRDisplaySubsystem.TextureLayout">
+      <summary>
+        <para>Flags that represents supported texture layout.</para>
+      </summary>
+    </member>
     <member name="F:UnityEngine.XR.XRDisplaySubsystem.TextureLayout.SeparateTexture2Ds">
       <summary>
         <para>Textures could be configured to multiple texture2D type.</para>
@@ -1654,6 +1659,11 @@ Gets the rotation of a specific node.</para>
         <para>Describes source texture's desired array slice. Texture2D will have array slice 1.</para>
       </summary>
     </member>
+    <member name="T:UnityEngine.XR.XRDisplaySubsystem.XRMirrorViewBlitDesc">
+      <summary>
+        <para>All information in this struct describes the desired mirror view blit operation.</para>
+      </summary>
+    </member>
     <member name="F:UnityEngine.XR.XRDisplaySubsystem.XRMirrorViewBlitDesc.blitParamsCount">
       <summary>
         <para>The number of XRBlitParams entries for this XRMirrorViewBlitDesc.</para>
@@ -1678,7 +1688,7 @@ Gets the rotation of a specific node.</para>
     </member>
     <member name="T:UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter">
       <summary>
-        <para>A single viewpoint that must be rendered by the render pipeline.  Contains a target viewport and texture array slice within a corresponding XR.XRDisplaySubsystem.XRRenderPass.renderTarget.</para>
+        <para>A single viewpoint that must be rendered by the render pipeline.  Contains a target viewport and texture array slice within a corresponding XR.XRDisplaySubsystem.XRRenderPass.renderTarget|renderTarget.</para>
       </summary>
     </member>
     <member name="F:UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.occlusionMesh">
@@ -1704,6 +1714,11 @@ Gets the rotation of a specific node.</para>
     <member name="F:UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.viewport">
       <summary>
         <para>Selects the viewport of the output texture XR.XRDisplaySubsystem.XRRenderPass.renderTarget|renderTarget.</para>
+      </summary>
+    </member>
+    <member name="T:UnityEngine.XR.XRDisplaySubsystem.XRRenderPass">
+      <summary>
+        <para>Contains configuration parameters about which view into the Scene the renderer should rasterize, and a render target (which can be a texture array) for the result of the rasterization.</para>
       </summary>
     </member>
     <member name="F:UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.cullingPassIndex">

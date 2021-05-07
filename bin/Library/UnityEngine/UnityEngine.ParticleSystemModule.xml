@@ -1771,8 +1771,7 @@
     </member>
     <member name="T:UnityEngine.ParticleSystem.MinMaxGradient">
       <summary>
-        <para>MinMaxGradient contains two Gradients, and returns a Color based on ParticleSystem.MinMaxGradient.mode. Depending on the mode, the Color returned may be randomized.
-Gradients are edited via the ParticleSystem Inspector once a ParticleSystemGradientMode requiring them has been selected. Some modes do not require gradients, only colors.</para>
+        <para>Script interface for a Min-Max Gradient.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.MinMaxGradient.color">
@@ -1858,9 +1857,7 @@ Gradients are edited via the ParticleSystem Inspector once a ParticleSystemGradi
     </member>
     <member name="T:UnityEngine.ParticleSystem.NoiseModule">
       <summary>
-        <para>Script interface for the NoiseModule of a Particle System.
-
-The Noise Module allows you to apply turbulence to the movement of your particles. Use the low quality settings to create computationally efficient Noise, or simulate smoother, richer Noise with the higher quality settings. You can also choose to define the behavior of the Noise individually for each axis.</para>
+        <para>Script interface for the NoiseModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.NoiseModule.damping">
@@ -2181,7 +2178,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.RotationBySpeedModule">
       <summary>
-        <para>Script interface for the RotationBySpeedModule of a Particle System.</para>
+        <para>Script interface for the RotationBySpeedModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.RotationBySpeedModule.enabled">
@@ -2231,7 +2228,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.RotationOverLifetimeModule">
       <summary>
-        <para>Script interface for the RotationOverLifetimeModule of a Particle System.</para>
+        <para>Script interface for the RotationOverLifetimeModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.RotationOverLifetimeModule.enabled">
@@ -2351,7 +2348,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.ShapeModule">
       <summary>
-        <para>Script interface for the ShapeModule of a Particle System.</para>
+        <para>Script interface for the ShapeModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.ShapeModule.alignToDirection">
@@ -2632,7 +2629,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.SizeBySpeedModule">
       <summary>
-        <para>Script interface for the SizeBySpeedModule of a Particle System.</para>
+        <para>Script interface for the SizeBySpeedModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.SizeBySpeedModule.enabled">
@@ -2692,7 +2689,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.SizeOverLifetimeModule">
       <summary>
-        <para>Script interface for the SizeOverLifetimeModule of a Particle System.</para>
+        <para>Script interface for the SizeOverLifetimeModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.SizeOverLifetimeModule.enabled">
@@ -2768,7 +2765,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.SubEmittersModule">
       <summary>
-        <para>Script interface for the SubEmittersModule of a Particle System.</para>
+        <para>Script interface for the SubEmittersModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.SubEmittersModule.birth0">
@@ -2907,7 +2904,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.TextureSheetAnimationModule">
       <summary>
-        <para>Script interface for the TextureSheetAnimationModule of a Particle System.</para>
+        <para>Script interface for the TextureSheetAnimationModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.TextureSheetAnimationModule.animation">
@@ -3040,7 +3037,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.TrailModule">
       <summary>
-        <para>Script interface for the TrailsModule of a Particle System</para>
+        <para>Script interface for the TrailsModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.TrailModule.attachRibbonsToTransform">
@@ -3148,9 +3145,14 @@ The Noise Module allows you to apply turbulence to the movement of your particle
         <para>Drop new trail points in world space, regardless of Particle System Simulation Space.</para>
       </summary>
     </member>
+    <member name="T:UnityEngine.ParticleSystem.Trails">
+      <summary>
+        <para>Script interface for storing the particle trail data.</para>
+      </summary>
+    </member>
     <member name="T:UnityEngine.ParticleSystem.TriggerModule">
       <summary>
-        <para>Script interface for the TriggerModule of a Particle System.</para>
+        <para>Script interface for the TriggerModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.TriggerModule.colliderCount">
@@ -3257,7 +3259,7 @@ The Noise Module allows you to apply turbulence to the movement of your particle
     </member>
     <member name="T:UnityEngine.ParticleSystem.VelocityOverLifetimeModule">
       <summary>
-        <para>Script interface for the VelocityOverLifetimeModule of a Particle System.</para>
+        <para>Script interface for the VelocityOverLifetimeModule.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.ParticleSystem.VelocityOverLifetimeModule.enabled">

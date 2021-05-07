@@ -2009,9 +2009,19 @@
       <param name="text">The message text.</param>
       <param name="messageType">The type of message.</param>
     </member>
+    <member name="T:UnityEngine.UIElements.HelpBox.UxmlFactory">
+      <summary>
+        <para>Instantiates a HelpBox with data from a UXML file.</para>
+      </summary>
+    </member>
     <member name="M:UnityEngine.UIElements.HelpBox.UxmlFactory.#ctor">
       <summary>
         <para>Constructor.</para>
+      </summary>
+    </member>
+    <member name="T:UnityEngine.UIElements.HelpBox.UxmlTraits">
+      <summary>
+        <para>Defines UxmlTraits for the HelpBox.</para>
       </summary>
     </member>
     <member name="M:UnityEngine.UIElements.HelpBox.UxmlTraits.#ctor">
@@ -5721,6 +5731,11 @@ When this method is called, it is not possible to use SetNextVertex to fill the 
         <para>Scroll to a specific child element.</para>
       </summary>
       <param name="child">The child to scroll to.</param>
+    </member>
+    <member name="T:UnityEngine.UIElements.ScrollView.TouchScrollBehavior">
+      <summary>
+        <para>The behavior to use when a user tries to scroll past the end of the ScrollView content using a touch interaction.</para>
+      </summary>
     </member>
     <member name="F:UnityEngine.UIElements.ScrollView.TouchScrollBehavior.Clamped">
       <summary>

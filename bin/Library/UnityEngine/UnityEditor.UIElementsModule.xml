@@ -1837,7 +1837,7 @@
     </member>
     <member name="T:UnityEditor.UIElements.TextValueField`1.TextValueInput">
       <summary>
-        <para>This is the text string that is entered in the text input.</para>
+        <para>This is the inner representation of the Text input.</para>
       </summary>
     </member>
     <member name="P:UnityEditor.UIElements.TextValueField_1.TextValueInput.allowedCharacters">
@@ -1975,6 +1975,11 @@
       <param name="label">The text to display for the item in the breadcrumb toolbar.</param>
       <param name="clickedEvent">The action to perform when the a users clicks the item in the toolbar.</param>
     </member>
+    <member name="T:UnityEditor.UIElements.ToolbarBreadcrumbs.UxmlFactory">
+      <summary>
+        <para>Instantiates a ToolbarBreadcrumbs using the data read from a UXML file.</para>
+      </summary>
+    </member>
     <member name="M:UnityEditor.UIElements.ToolbarBreadcrumbs.UxmlFactory.#ctor">
       <summary>
         <para>Constructs a breadcrumb toolbar from the given data.</para>
@@ -2084,7 +2089,7 @@
     </member>
     <member name="T:UnityEditor.UIElements.ToolbarMenu.Variant">
       <summary>
-        <para>The display styles that you can use when creating menus.</para>
+        <para>Display styles for the menu.</para>
       </summary>
     </member>
     <member name="F:UnityEditor.UIElements.ToolbarMenu.Variant.Default">

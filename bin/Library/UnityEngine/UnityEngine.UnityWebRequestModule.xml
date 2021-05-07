@@ -855,7 +855,7 @@ If a string, the string will be converted to raw bytes via &lt;a href="http:msdn
     </member>
     <member name="T:UnityEngine.Networking.UnityWebRequest.Result">
       <summary>
-        <para>The enumeration describing the result of the UnityWebRequest.</para>
+        <para>Defines codes describing the possible outcomes of a UnityWebRequest.</para>
       </summary>
     </member>
     <member name="F:UnityEngine.Networking.UnityWebRequest.Result.ConnectionError">

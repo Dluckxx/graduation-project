@@ -9340,6 +9340,11 @@ See Also: AssemblyDefinitionPlatform.</para>
         <para>Describes the content of the response file that was parsed. Errors, defines, etc.</para>
       </returns>
     </member>
+    <member name="T:UnityEditor.Compilation.CompilationPipeline.PrecompiledAssemblySources">
+      <summary>
+        <para>Specifies the sources of precompiled assemblies referenced during compilation.</para>
+      </summary>
+    </member>
     <member name="F:UnityEditor.Compilation.CompilationPipeline.PrecompiledAssemblySources.All">
       <summary>
         <para>Matches all assembly sources.</para>
@@ -20834,7 +20839,7 @@ MYCOMPUTER\SHAREDFOLDER\.</para>
     </member>
     <member name="T:UnityEditor.Experimental.SceneManagement.PrefabStage.Mode">
       <summary>
-        <para>When opening a Prefab Stage for a given Prefab, the stage can be opened either in isolation or in context.</para>
+        <para>Specifies the mode that Unity uses to open a Prefab stage. You can open the stage either in isolation or in context.</para>
       </summary>
     </member>
     <member name="F:UnityEditor.Experimental.SceneManagement.PrefabStage.Mode.InContext">
@@ -26605,7 +26610,7 @@ GUILayout.MaxHeight, GUILayout.ExpandWidth, GUILayout.ExpandHeight.</param>
     </member>
     <member name="T:UnityEditor.LightmapEditorSettings.Sampling">
       <summary>
-        <para>Available sampling strategies for baking lightmaps with the Progressive Lightmapper.</para>
+        <para>This enum is now obsolete. Use LightingSettings.Sampling.</para>
       </summary>
     </member>
     <member name="F:UnityEditor.LightmapEditorSettings.Sampling.Auto">
@@ -34090,7 +34095,7 @@ Note: calling this function will implicitly call Application.SetStackTraceLogTyp
     </member>
     <member name="T:UnityEditor.PlayerSettings.Switch">
       <summary>
-        <para>Player Settings for the Nintendo Switch platform.</para>
+        <para>Nintendo Switch Player settings.</para>
       </summary>
     </member>
     <member name="T:UnityEditor.PlayerSettings.Switch.ApplicationAttribute">
@@ -38043,6 +38048,11 @@ See Preset.GetDefaultListForType and Preset.SetDefaultListForType for usage.</pa
       <returns>
         <para>True if the task is paused, false if it cannot be paused.</para>
       </returns>
+    </member>
+    <member name="T:UnityEditor.Progress.Priority">
+      <summary>
+        <para>An enumeration that defines task priorities.</para>
+      </summary>
     </member>
     <member name="F:UnityEditor.Progress.Priority.High">
       <summary>
@@ -46314,7 +46324,7 @@ Valid values are in the range [0-1], with higher values generating a tighter mes
     </member>
     <member name="T:UnityEditor.TypeCache.MethodCollection">
       <summary>
-        <para>Represents a read-only collection of MethodInfo and implements IList interface.</para>
+        <para>Represents a read-only collection of MethodInfo and implements an IList interface.</para>
       </summary>
     </member>
     <member name="M:UnityEditor.TypeCache.MethodCollection.Contains(System.Reflection.MethodInfo)">
@@ -46425,7 +46435,7 @@ Valid values are in the range [0-1], with higher values generating a tighter mes
     </member>
     <member name="T:UnityEditor.TypeCache.TypeCollection">
       <summary>
-        <para>Represents a read-only collection of Type and implements IList interface.</para>
+        <para>Represents a read-only collection of Type and implements an IList interface.</para>
       </summary>
     </member>
     <member name="M:UnityEditor.TypeCache.TypeCollection.Contains(System.Type)">
