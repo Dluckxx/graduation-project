@@ -45,6 +45,7 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>..\..\bin\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -60,7 +61,6 @@
     <Compile Include="Service\ServiceContext.cs" />
     <Compile Include="UI\Components\AreaButtonComponent.cs" />
     <Compile Include="UI\Components\PauseMenuComponent.cs" />
-    <Compile Include="UI\PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

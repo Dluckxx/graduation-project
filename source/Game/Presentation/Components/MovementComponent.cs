@@ -15,10 +15,6 @@ namespace Game.Presentation.Components{
             mTransform = gameObject.GetComponent<Transform>();
             mLocationOffset = new Vector3();
             mRotationOffset = new Vector3();
-
-            // Lock the Cursor.
-            Cursor.visible = false;
-            Cursor.lockState = CursorLockMode.Locked;
         }
 
         private void Update() {

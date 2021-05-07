@@ -227,6 +227,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6703570746221848440, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6703570746221848441, guid: 9aadfaad058adeb499935211666ded86, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -311,9 +315,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6703570746221848442, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6703570746221848445, guid: 9aadfaad058adeb499935211666ded86, type: 3}
       propertyPath: m_Name
       value: PauseMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703570746221848447, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703570746450472019, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703570746450472019, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703570746450472019, guid: 9aadfaad058adeb499935211666ded86, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6703570747102598657, guid: 9aadfaad058adeb499935211666ded86, type: 3}
       propertyPath: m_Name

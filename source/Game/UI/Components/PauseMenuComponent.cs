@@ -1,33 +1,34 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Game.UI.Components
 {
     public class PauseMenuComponent : MonoBehaviour
     {
-        public GameObject AreaButtonPrefab;
 
-        private PauseMenu mPauseMenu;
-
-        // Use this for initialization
-        void Start()
-        {
-            mPauseMenu = new PauseMenu();
-            mPauseMenu.bIsShow = false;
-        }
+        public bool bShow = false;
 
         // Update is called once per frame
         void Update()
         {
-
+            CheckEsc();
+            UpdateShow();
         }
 
         private void CheckEsc()
         {
             if (Input.GetKeyDown(KeyCode.Escape))
             {
-                mPauseMenu.bIsShow = !mPauseMenu.bIsShow;
+                bShow = !bShow;
             }
+        }
+
+        private void UpdateShow()
+        {
+            GetComponent<Canvas>().enabled = bShow;
+
+            // Lock the Cursor.
+            Cursor.visible = bShow;
+            Cursor.lockState = (bShow ? CursorLockMode.Confined : CursorLockMode.Locked);
         }
     }
 }
