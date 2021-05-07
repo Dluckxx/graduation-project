@@ -1,5 +1,6 @@
 ﻿using Game.Service;
 using System.Collections.Generic;
+using UnityEngine;
 
 namespace Game.Presentation.Area
 {
@@ -7,14 +8,19 @@ namespace Game.Presentation.Area
     {
         private List<AreaPoint> mAreaList = new List<AreaPoint>();
 
-        public int Size {
-            get {
-                return mAreaList.Count;
-            }
-        }
+
+
+        public int Size { get; }
+        public float TranslateHeight { get; set; }
 
         public AreaService()
         {
+            Size = mAreaList.Count;
+        }
+
+        public override void Setup()
+        {
+            TranslateHeight = 4.0f;
         }
 
         // Note : return null when player is not in any area
@@ -33,6 +39,31 @@ namespace Game.Presentation.Area
         public List<AreaPoint> GetAreaPoints()
         {
             return mAreaList;
+        }
+
+        public AreaPoint GetAreaPointByName(string name)
+        {
+            foreach (AreaPoint p in mAreaList)
+            {
+                if (p.AreaName == name)
+                {
+                    return p;
+                }
+            }
+            return null;
+        }
+
+        public Vector3 GetAreaTranslateLocation(string name)
+        {
+            AreaPoint area = GetAreaPointByName(name);
+            if (area != null)
+            {
+                Vector3 ret = area.Location;
+                ret.y += TranslateHeight;
+                return ret;
+            }
+
+            return new Vector3();
         }
 
         public void AddAreaPoint(AreaPoint area)

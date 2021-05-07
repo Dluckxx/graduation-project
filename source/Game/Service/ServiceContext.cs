@@ -13,9 +13,9 @@ namespace Game.Service
 
         public static void Setup()
         {
-            
+            AddServices();
             // All services setup
-            foreach(ServiceBase service in mServices){
+            foreach (ServiceBase service in mServices){
                 service.Setup();
             }
         }
@@ -38,6 +38,11 @@ namespace Game.Service
             {
                 service.Tick();
             }
+        }
+
+        private static void AddServices()
+        {
+            mServices.Add(AreaService);
         }
     }
 }

@@ -9,15 +9,9 @@ namespace Game.Presentation.Components
 
         private AreaPoint mAreaPoint;
 
-        private Vector3 mSize;
-        private BoxCollider mBoxCollider;
-
         void Awake()
         {
-            mBoxCollider = GetComponent<BoxCollider>();
-            mSize = mBoxCollider.size;
-
-            mAreaPoint = new AreaPoint(Name);
+            mAreaPoint = new AreaPoint(Name, transform.position);
         }
 
         // Use this for initialization

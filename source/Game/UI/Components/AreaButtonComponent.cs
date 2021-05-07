@@ -25,8 +25,20 @@ namespace Game.UI.Components
                 o.GetComponentInChildren<Text>().text = a.AreaName;
                 o.transform.SetParent(gameObject.transform);
 
+                // Binding click event
+                o.GetComponent<Button>().onClick.AddListener(delegate ()
+                {
+                    OnClickArea(a.AreaName);
+                });
+               
+
                 i += 0.1f;
             }
+        }
+
+        public void OnClickArea(string name)
+        {
+            GameObject.Find("Player").transform.position = mAreaService.GetAreaTranslateLocation(name);
         }
     }
 }

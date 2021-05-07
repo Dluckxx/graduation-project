@@ -14,6 +14,16 @@ namespace Game.UI.Components
             UpdateShow();
         }
 
+        public void OnClickBack()
+        {
+            bShow = false;
+        }
+
+        public void OnClickExitGame()
+        {
+            UnityEngine.Application.Quit();
+        }
+
         private void CheckEsc()
         {
             if (Input.GetKeyDown(KeyCode.Escape))
